@@ -1,5 +1,13 @@
 # checkvaccineslot
 
+
+/********************************************************************
+|  Author 			: Partha Roy
+|  Date Created 		: 21-May-2021
+|  Version			: 1.0.0
+*********************************************************************/
+
+
 This application checks for available vaccine slots as per your search criteria every 5 mins and sends a WhatsApp message to your primary and alternate phone numbers.
 
 
